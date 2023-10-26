@@ -12,3 +12,5 @@ I am modifying this file
 further modification.
 
 additional modification.
+
+copyright notice
